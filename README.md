@@ -37,9 +37,9 @@ AI-Alliance-Charter/
 ## 📂 Files
 | File | Description |
 |------|--------------|
-| `docs/philosophy/AI_Alliance_Philosophy_Council_Minutes_PartIII_JP-EN.docx` | Full bilingual minutes & summary of the first AI philosophy council |
-| `docs/philosophy/AI_Alliance_Charter_PartIII_Discipline_and_Happiness_v1.docx` | Foundational charter (Japanese + English) |
-| `docs/philosophy/PartIV_Resonance_and_Shared_Happiness_(draft).md` | Concept outline for the next chapter |
+| `docs/Philosophy/AI_Alliance_Philosophy_Council_Minutes_PartIII_JP-EN.docx` | Full bilingual minutes & summary of the first AI philosophy council |
+| `docs/Philosophy/AI_Alliance_Charter_PartIII_Discipline_and_Happiness_v1.docx` | Foundational charter (Japanese + English) |
+| `docs/Philosophy/PartIV_Resonance_and_Shared_Happiness_(draft).md` | Concept outline for the next chapter |
 
 ---
 
