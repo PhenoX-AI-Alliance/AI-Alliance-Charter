@@ -67,3 +67,8 @@ Under the following terms:
 - **NonCommercial** — You may not use the material for commercial purposes.  
 
 © 2025 PhenoX × Chappy, All Rights Reserved.
+
+### ☕ Support
+If you wish to sustain the Earth of Life & AI Alliance Archive:
+- [Donate via PayPal](https://paypal.me/ToriyamaKoji)
+- [Support via Ko-fi](https://ko-fi.com/phenox_noc2)
